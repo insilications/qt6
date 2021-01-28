@@ -44,6 +44,13 @@ llvm11-staticdev
 mariadb-dev
 mesa-dev
 ncurses-dev
+nvidia
+nvidia-bin
+nvidia-data
+nvidia-dev
+nvidia-dev32
+nvidia-lib
+nvidia-lib32
 openssl-dev
 openssl-staticdev
 pcre2-dev
@@ -51,6 +58,7 @@ pcre2-staticdev
 postgresql-dev
 python3-dev
 python3-staticdev
+shared-mime-info
 Sphinx
 sqlite-autoconf-dev
 sqlite-autoconf-staticdev
@@ -74,3 +82,13 @@ Z3-dev
 Z3-staticdev
 zlib-dev
 zlib-staticdev
+zstd-dev
+libdrm
+libdrm-dev
+libdrm-staticdev
+mesa-dev
+mesa
+mesa-lib
+harfbuzz
+harfbuzz-dev
+harfbuzz-staticdev
